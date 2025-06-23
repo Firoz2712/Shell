@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################
 # Author: Firoz
-# Version: v1
+# Version: v2
 #
 #
 #
